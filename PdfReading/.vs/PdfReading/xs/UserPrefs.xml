@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{1CD27D10-C1EE-4800-86C2-07301262FBB5}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mehmetyalniz/Projects/PdfReading/PdfReading/KuveytHelper.cs" relfile="PdfReading/KuveytHelper.cs" line="14" column="1" />
+      <Breakpoint file="/Users/mehmetyalniz/Projects/PdfReading/PdfReading/İsbankHelper.cs" relfile="PdfReading/İsbankHelper.cs" line="92" column="1" />
+      <Breakpoint file="/Users/mehmetyalniz/Projects/PdfReading/PdfReading/İsbankHelper.cs" relfile="PdfReading/İsbankHelper.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PdfReading PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PdfReading/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="PdfReading/VakifTransaction.cs" />
+      <File FileName="PdfReading/Controllers/WeatherForecastController.cs" Line="101" Column="2" />
+      <File FileName="PdfReading/KuveytHelper.cs" Line="9" Column="21" />
+      <File FileName="PdfReading/BankTransaction.cs" Line="9" Column="9" />
+      <File FileName="PdfReading/VakifHelper.cs" Line="10" Column="1" />
+      <File FileName="PdfReading/İsbankHelper.cs" />
+      <File FileName="PdfReading/İsbankTransaction.cs" />
+      <File FileName="PdfReading/PdfService.cs" />
+      <File FileName="PdfReading/Program.cs" />
+      <File FileName="PdfReading/Helper.cs" />
+      <File FileName="PdfReading/KuveytTransaction.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PdfReading" expanded="True">
+            <Node name="PdfReading" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
